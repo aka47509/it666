@@ -1,2 +1,3 @@
-# it666
-git study
+# 学习git
+
+- 多人开发gitflow
